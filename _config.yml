@@ -1,0 +1,28 @@
+name: webstra
+favicon: null
+layout_spectrum: 0.5813783439807594
+typography_spectrum: 0.6407205336727202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9756643380969763
+  lightness: 0.4545920353848487
+  saturation: 0.992263361113146
+  rhythmicContrast: 0.4842287455685437
+purpose: []
