@@ -2,6 +2,7 @@ name: webstra
 favicon: null
 layout_spectrum: 0.5813783439807594
 typography_spectrum: 0.6407205336727202
+title: Webstra
 cta:
   domain: null
   bucket: null
